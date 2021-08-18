@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 #woshi zsj
+#woshi sf
 '''
 仅作为以圆形目标作为运动员的代替的演示实验
 '''
